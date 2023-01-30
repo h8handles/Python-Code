@@ -1,6 +1,9 @@
 import timeit
 import threading
 
+'''
+Description: This snippet will output 100 values and time it with and without threading.
+'''
 
 def numbs():                                                                               
      for i in range(1,100):                                                               
